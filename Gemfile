@@ -5,6 +5,7 @@ gem 'sinatra'
 gem 'rake'
 gem 'thin'
 gem 'shotgun'
+gem 'byebug'
 gem 'require_all'
 
 group :test, :development do
